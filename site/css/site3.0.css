@@ -491,9 +491,6 @@ nav .menu {
     }
 }
 @media screen and (min-height: 740px) {
-    .interactive {
-        margin-left: -110%;
-    }
     .container {
         height: 121vh;
     }
