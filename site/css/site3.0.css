@@ -490,14 +490,22 @@ nav .menu {
         font-size: 0.8em;
     }
 }
-@media screen and (min-height: 740px) {
+@media screen and (min-height: 741px) {
     .container {
-        height: 121vh;
+        height: 261vh;
+    }
+}
+@media screen and (min-height: 840px) {
+    .container {
+        height: 118vh;
     }
 }
 @media screen and (min-height: 1000px) {
     .container {
         height: 173vh;
+    }
+    .interactive {
+        margin-left: 110%;
     }
 }
 @media screen and (min-height: 1300px) {
