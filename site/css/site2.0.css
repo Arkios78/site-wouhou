@@ -472,14 +472,22 @@ nav .menu {
         display: none;
     }
 }
-@media screen and (min-height: 740px) {
+@media screen and (min-height: 741px) {
     .container {
-        height: 145vh;
+        height: 295vh;
+    }
+}
+@media screen and (min-height: 741px) {
+    .container {
+        height: 127vh;
     }
 }
 @media screen and (min-height: 1000px) {
     .container {
         height: 190vh;
+    }
+    .interactive {
+        margin-left: 110%;
     }
 }
 @media screen and (min-height: 1300px) {
